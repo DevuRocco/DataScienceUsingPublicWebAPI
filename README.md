@@ -10,7 +10,4 @@ STEPS:
 * Loading dataset in an appropriate representation
 * Data pre-processing, including cleaning, filtering, and transformation of the data before analysis
 * Data characterisation, summarisation, and analysis of the data
-* Analysis should include use of tables and visualisations where appropriate
-* Interpretation and explanation of the results
-* Conclusions with summary of insights, challenges, and future work
-* Code quality and structure, including use of Jupyter notebooks and Markdown comments
+* Analysis
